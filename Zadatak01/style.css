@@ -1,0 +1,17 @@
+body {
+    background-color: #33ffff;
+}
+table {
+    width: 350px;
+    margin: 0 auto;
+    border: 1px solid black;
+    background: #00264d;
+}
+th {
+    background: #404040;
+    color: #00e6e6;
+}
+td {
+    background: #a6a6a6;
+    color: #0059b3;
+}

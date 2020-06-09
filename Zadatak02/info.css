@@ -1,0 +1,35 @@
+body {
+    background: #cce6ff;
+}
+#wrapper {
+    margin: 0 auto;
+    width: 900px;
+}
+nav {
+    border-bottom: 2px solid gray;
+    padding-bottom: 5px;
+}
+nav a {
+    margin-right: 7px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #b30000;
+}
+nav a:hover {
+    color: #ff4d4d;
+}
+h1 {
+    border-bottom: 2px solid gray ;
+    padding-bottom: 10px;
+}
+p {
+    margin:5px;
+}
+.container a {
+    text-decoration: none;
+    color:#b30000;
+
+}
+.container a:hover {
+    color: #ff4d4d;
+}
